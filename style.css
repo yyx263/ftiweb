@@ -1,0 +1,10 @@
+body {
+    background-image: url(images/background.png);
+    background-size: cover;
+    font-size: medium;
+    text-align: center;
+    color: white;
+}
+.name {
+    color:gold;
+}
